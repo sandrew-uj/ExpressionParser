@@ -90,6 +90,7 @@ x \* (x - 2)\*x + 1
     * ошибки вычисления выражений.
   
 Классы `CheckedAdd`, `CheckedSubtract`, `CheckedMultiply`, `CheckedDivide` и `CheckedNegate`
+
 2. Для выражения 1000000*x*x*x*x*x/(x-1) вывод программы должен иметь следующий вид:
 ```
 x       f
